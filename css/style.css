@@ -1,0 +1,8 @@
+.bottom-buffer {
+  margin-bottom: 2rem;
+}
+.scrollable {
+  height: 45rem;
+  position: fixed;
+  overflow-y: scroll;
+}
