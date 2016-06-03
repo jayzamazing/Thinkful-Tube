@@ -7,7 +7,7 @@ $(function() {
 });
 function getRequest(searchTerm) {
   var params = {
-    key: 'AIzaSyC-rNio-jPP6kb1x-hq-eKB24ofZ5Pmjtw',
+    key: '', //TODO add youtube api key
     q: searchTerm,
     part: 'snippet'
   };
